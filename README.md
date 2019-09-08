@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Human!
+
+Wendz here, I like to play tennis.
